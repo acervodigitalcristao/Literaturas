@@ -9,4 +9,7 @@ git add --all
 git commit -m "update"
 git push
 
+cd ..
+bash adc.sh
+
 
