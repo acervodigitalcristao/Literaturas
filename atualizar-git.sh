@@ -10,14 +10,11 @@ git commit -m "update"
 git push
 
 cd ..
+
 if [ -e "adc.sh" ] ; then
-
 bash adc.sh
-
 else
-
 exit
-
 fi
 
 
